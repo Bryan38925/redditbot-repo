@@ -23,13 +23,13 @@ This bot is made with python and will respond a random joke to comments in a sub
 6. about url: (optional)
 7. redirect uri: http://localhost:8080
 8. Click "create app"
-9. Keep track of "client id" and "secret"
+9. Keep track of "client id" and "secret" that are displayed
 
 ###### config.py:
 1. username: youre Reddit username
 2. password: your Reddit password
-3. client_id: client id displayed after clicking "Create app" from step 8. above
-4. client_secret: secret id displayed after clicking "Create app" from step 8. above
+3. client_id: client id (from step 9. above)
+4. client_secret: secret id (from step 9. above)
 
 ###### redditbot.py:
 
