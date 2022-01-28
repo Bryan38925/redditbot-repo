@@ -1,7 +1,7 @@
 # **Reddit Comment Responder Bot**
 
 
-Hello 
+* Hello 
 
 ## Subheader
 
