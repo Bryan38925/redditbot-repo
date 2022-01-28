@@ -1,4 +1,4 @@
-# **Reddit Comment Responder Bot**
+# **Reddit Joke Comment Responder Bot**
 
 This bot is made with python and will respond a random joke to comments in a subreddit.
 
