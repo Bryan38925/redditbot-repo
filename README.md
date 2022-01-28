@@ -1,2 +1,2 @@
-# Reddit Comment Responder Bot
+# **Reddit Comment Responder Bot**
 
