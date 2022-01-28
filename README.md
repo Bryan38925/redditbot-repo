@@ -13,7 +13,7 @@ This bot is made with python and will respond a random joke to comments in a sub
 
 ## Setup 
 
-###### [Reddit:](https://old.reddit.com/)
+###### Reddit:
 
 1. While signed in, go to [preferences->apps.](https://www.reddit.com/prefs/apps/)
 2. Click "create an app" near the bottom of the screen
