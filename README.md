@@ -34,6 +34,7 @@ config.py:
 redditboy.py:
 
 Select which subreddit bot will be active in (deafult = "r/test")
+
 `for comment in a.subreddit('test')`
 
 
