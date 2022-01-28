@@ -41,7 +41,7 @@ Select which keyword will activate bot (default = "sample user keyword")
 
 `if "sample user keyword"                                                                                                                                                       `
 
-##Running the bot
+## Execution
 
 Run the bot in the directory where bot is located
 
