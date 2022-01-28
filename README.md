@@ -1,4 +1,4 @@
-# **Reddit Comment Responder Bot (Chuck Norris Jokes) **
+# **Reddit Comment Responder Bot (Chuck Norris Jokes)**
 
 This bot is made with python and will respond a random joke to comments in a subreddit.
 
