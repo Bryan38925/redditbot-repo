@@ -33,7 +33,7 @@ This bot is made with python and will respond a random joke to comments in a sub
 
 ###### redditbot.py:
 
-Select which subreddit bot will be active in (default = "r/test")
+Select which subreddit bot will be active in (default = 'test'), will be active in r/test
 
 `a.subreddit('test')                                                                                                                                                            `
 
