@@ -33,9 +33,14 @@ config.py:
 
 redditboy.py:
 
-Select which subreddit bot will be active in (deafult = "r/test")
+Select which subreddit bot will be active in (default = "r/test")
 
-`for comment in a.subreddit('test')`
+`a.subreddit('test')`
+
+Select which keyword will activate bot (default = "sample user keyword")
+
+`if "sample user keyword"
+
 
 
 
