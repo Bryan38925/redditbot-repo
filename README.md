@@ -31,7 +31,7 @@ This bot is made with python and will respond a random joke to comments in a sub
 3. client_id: client id displayed after clicking "Create app" from step 8. above
 4. client_secret: secret id displayed after clicking "Create app" from step 8. above
 
-###### redditboy.py:
+###### redditbot.py:
 
 Select which subreddit bot will be active in (default = "r/test")
 
