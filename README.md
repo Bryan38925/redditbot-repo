@@ -33,15 +33,15 @@ This bot is made with python and will respond a random joke to comments in a sub
 
 ###### redditbot.py:
 
-Select which subreddit bot will be active in (default = 'test'), will be active in r/test
+Set which subreddit bot will be active in (default = 'test'), will be active in r/test
 
 `a.subreddit('test')`
 
-Select amount of comments bot will scrape through (default = 20)
+Set amount of comments bot will scrape through (default = 20)
 
 `a.subreddit('test').comments(limit = 20)`
 
-Select which keyword will activate bot (default = "sample user keyword")
+Set which keyword(s) will activate bot (default = "sample user keyword")
 
 `if "sample user keyword"                                                                                                                                                       `
 
