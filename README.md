@@ -7,4 +7,4 @@ This bot is made with python, and will respond a random joke to comments in a su
 
 ## Requirements
 
-* [Python]: https://www.python.org/downloads/
+[Python]: https://www.python.org/downloads/
